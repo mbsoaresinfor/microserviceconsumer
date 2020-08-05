@@ -15,7 +15,6 @@ import org.springframework.web.client.RestTemplate;
 @RestController
 @SpringBootApplication
 @EnableCircuitBreaker
-@EnableHystrixDashboard
 public class Main {
 
 	
